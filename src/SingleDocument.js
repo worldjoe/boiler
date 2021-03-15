@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import DocumentsClient from './DocumentsClient.js';
 import { connect } from 'react-redux';
 import { addDocumentAsync, deleteDocumentAsync, editDocumentAsync } from './redux/actions';
 

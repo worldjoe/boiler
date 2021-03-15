@@ -1,10 +1,7 @@
-import React, { Component } from "react";
 import ReactDOM from 'react-dom';
 import './index.css';
 import DocumentApp from './DocumentApp';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter } from "react-router-dom";
-import DocumentsClient from './DocumentsClient.js';
 import { Provider } from 'react-redux';
 import store from './redux/store';
 import { fetchDocuments } from './crudSlice';

@@ -1,6 +1,6 @@
 [![Node.js CI](https://github.com/worldjoe/boiler/actions/workflows/node.js.yml/badge.svg)](https://github.com/worldjoe/boiler/actions/workflows/node.js.yml)
 
-This is a simple CRUD react front end for [boiler-app](https://github.com/worldjoe/boilerapp)
+This is a simple CRUD react front end for [boiler-app](https://github.com/worldjoe/boiler-app)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

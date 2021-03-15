@@ -1,8 +1,9 @@
 [![Node.js CI](https://github.com/worldjoe/boiler/actions/workflows/node.js.yml/badge.svg)](https://github.com/worldjoe/boiler/actions/workflows/node.js.yml)
 
 This is a simple CRUD react front end for [boiler-app](https://github.com/worldjoe/boiler-app)
-It uses [React Redux](https://react-redux.js.org/) for the store
-It uses [Redux Thunk](https://github.com/reduxjs/redux-thunk) middleware to provide asynchronous dispatching support to communicate to the JAVA backend.
+* It uses [React Redux](https://react-redux.js.org/) for the store
+* It uses [Redux Thunk](https://github.com/reduxjs/redux-thunk) middleware to provide asynchronous dispatching support to communicate to the JAVA backend.
+* It has been setup with [Github Actions](https://github.com/worldjoe/boiler/actions) to automatically build and test pr's and pushes to master.
 
 # Getting Started with Create React App
 

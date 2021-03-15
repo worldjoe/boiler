@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test window location's reload function testRender 1`] = `
+<div
+  className="SingleDocument"
+>
+  <form>
+    <div />
+    <label>
+      content
+    </label>
+    <input
+      onChange={[Function]}
+      value=""
+    />
+    <input
+      onClick={[Function]}
+      type="button"
+      value="new"
+    />
+    <div />
+  </form>
+</div>
+`;
+
+exports[`test window location's reload function testRender with content 1`] = `
+<div
+  className="SingleDocument"
+  id="123"
+>
+  <form>
+    <label>
+      id
+    </label>
+    <input
+      readOnly={true}
+      value="123"
+    />
+    <label>
+      content
+    </label>
+    <input
+      onChange={[Function]}
+      value="joey is awesome"
+    />
+    <input
+      onClick={[Function]}
+      type="button"
+      value="submit"
+    />
+    <input
+      onClick={[Function]}
+      type="button"
+      value="delete"
+    />
+  </form>
+</div>
+`;
